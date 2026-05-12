@@ -71,17 +71,16 @@ python scripts/process_weather.py
 
 ## What I learned
 
-How to work with APIs in Python
-How to process and structure raw data
-How to use Linux scripts for automation
-How logging helps debug workflows
-How Git is used in real projects
-Basic idea of data pipelines used in production systems
+- How to work with APIs in Python
+- How to process and structure raw data
+- How to use Linux scripts for automation
+- How logging helps debug workflows
+- How Git is used in real projects
+- Basic idea of data pipelines used in production systems
 
 ## Future improvements
 
-Add database storage (SQLite or PostgreSQL)
-Improve logging system
-Add unit tests
-Containerize with Docker
-Schedule with cron for full automation
+- Add database storage (SQLite or PostgreSQL)
+- Improve logging system
+- Add unit tests
+- Containerize with Docker
